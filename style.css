@@ -6,3 +6,40 @@
     text-align: center;
     width: 100%;
 }
+.list-group-item-warning{
+    border: 2px;
+}
+#img1{
+    width: 27%;
+    height: 20%;
+    margin-left: 37%;
+    margin-right: 10px;
+}
+#one{
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+}
+#P{
+    text-align: left;
+}
+h5{
+    text-align: left;
+}
+.SWM_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.SWM_head i{
+float: right;
+}
+
+.movie_text span{
+color: #ff7700;
+}
