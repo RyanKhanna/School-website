@@ -27,6 +27,7 @@
 h5{
     text-align: left;
 }
+/*part 1*/
 .SWM_head{
     font-size: 20px;
     padding: 6px 22px;
@@ -42,4 +43,48 @@ float: right;
 
 .movie_text span{
 color: #ff7700;
+}
+/*part 2*/
+.SWM_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.SWM_head i{
+float: right;
+}
+
+.movie_text span{
+color: #ff7700;
+}
+/*part 3*/
+.SWM_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.SWM_head i{
+float: right;
+}
+
+.movie_text span{
+color: #ff7700;
+}
+/*Modal images*/
+#A.P{
+    width: 30%;
+    height: 20%;
+    border: red;
+    border-width: 5px;
+}
+#one{
+    
 }
