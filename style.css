@@ -16,10 +16,14 @@
     margin-right: 10px;
 }
 #one{
-    border: solid;
-    border-color: black;
-    border-width: 2px;
     text-align: center;
+}
+#two{
+    text-align: center;
+}
+#main{
+    height: 100px;
+    width: 100px;
 }
 #P{
     text-align: left;
@@ -78,13 +82,15 @@ float: right;
 .movie_text span{
 color: #ff7700;
 }
-/*Modal images*/
-#A.P{
-    width: 30%;
-    height: 20%;
-    border: red;
-    border-width: 5px;
+.Web_Links{
+    text-align: center;
+    /* For me the text align wasn't working*/
+    cursor: pointer;
 }
-#one{
-    
+#paddingN{
+    margin-left: 10%;
 }
+.book{
+    padding: 10px;
+}
+
